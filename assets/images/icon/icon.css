@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.icon {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center;
+    -webkit-mask-position: center;
+}
+.icon-tick{
+    mask-image: url(tick.svg);
+    -webkit-mask-image: url(tick.svg);
+}
+.about-icon{
+    mask-image: url(aboutIcon.svg);
+    -webkit-mask-image: url(aboutIcon.svg);
+}
+.icon-ins{
+    mask-image: url(ins.svg);
+    -webkit-mask-image: url(ins.svg);
+}
+.icon-tikTok{
+    mask-image: url(tikTok.svg);
+    -webkit-mask-image: url(tikTok.svg);
+}
+.icon-in{
+    mask-image: url(in.svg);
+    -webkit-mask-image: url(in.svg);
+}
+.icon-fa{
+    mask-image: url(fa.svg);
+    -webkit-mask-image: url(fa.svg);
+}
+.icon-tel{
+    mask-image: url(tel.svg);
+    -webkit-mask-image: url(tel.svg);
+}
+.icon-yu{
+    mask-image: url(yu.svg);
+    -webkit-mask-image: url(yu.svg);
+}

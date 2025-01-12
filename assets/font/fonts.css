@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('ARIBLBclak.woff') format('woff');
+    local('ARIBLK.woff');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('ARIALBD.woff') format('woff'),
+    local('ARIALBD.woff');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('ArialMdm.woff') format('woff'),
+    local('ArialMdm.woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('ARIALRegular.woff') format('woff'),
+    local('ARIALRegular.woff');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Prata';
+    src: url('Prata-Regular.woff') format('woff'),
+    local('Prata-Regular.woff');
+    font-weight: 400;
+}
